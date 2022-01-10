@@ -1,3 +1,17 @@
+'''
+Olá Mundo!
+
+Bem-vindo ao beecrowd !
+
+Seu primeiro programa em qualquer linguagem de programação é geralmente " Hello World! ". Neste primeiro problema basta imprimir esta mensagem na tela.
+
+Entrada
+Este problema não tem entrada.
+
+Saída
+Você deve imprimir a mensagem Hello World! e, em seguida, a linha final conforme mostrado abaixo.
+'''
+
 # -*- coding: utf-8 -*-
 
 print('Hello World!')
